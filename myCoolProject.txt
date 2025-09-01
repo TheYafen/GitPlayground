@@ -20,7 +20,7 @@ lane04:
 }
 
 function000 {
-lane01;
-lane02;
+lane002;
+someval;
 lane03;
 }
